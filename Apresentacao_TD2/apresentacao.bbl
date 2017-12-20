@@ -1,0 +1,95 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[AtCrux 2012]{luva_mocap}
+\abntrefinfo{AtCrux}{ATCRUX}{2012}
+{ATCRUX. \emph{Data glove and head tracking device that uses motion capturing
+  system}. 2012.
+Disponível em:
+  \url{http://www.atcrux.com/2012/10/02/3850/data-glove-and-head-tracking-device-that-uses-motion-capturing-system.html}.
+  Acesso em Dez. 2017.}
+
+\bibitem[Bontrager e Lampignano 2015]{articulacoes}
+\abntrefinfo{Bontrager e Lampignano}{BONTRAGER; LAMPIGNANO}{2015}
+{BONTRAGER, K.~L.; LAMPIGNANO, J.~P. \emph{Tratado de posicionamento
+  radiogr{\'a}fico e anatomia associada}. [S.l.]: Elsevier Brasil, 2015.
+  127~p.}
+
+\bibitem[Braga 2014]{hall}
+\abntrefinfo{Braga}{BRAGA}{2014}
+{BRAGA, N.~C. \emph{Como funcionam os sensores de Efeito Hall}. 2014.
+Disponível em:
+  \url{http://www.newtoncbraga.com.br/index.php/como-funciona/6640-como-funcionam-os-sensores-de-efeito-hall-art1050}.
+  Acesso em Out. 2017.}
+
+\bibitem[Computer Desktop Encyclopedia 2003]{cyberglove2}
+\abntrefinfo{Computer Desktop Encyclopedia}{COMPUTER DESKTOP
+  ENCYCLOPEDIA}{2003}
+{COMPUTER DESKTOP ENCYCLOPEDIA. \emph{Data Dlove}. 2003.
+Disponível em: \url{http://encyclopedia2.thefreedictionary.com/data+glove}.
+  Acesso em Dez. 2017.}
+
+\bibitem[Electronic Products 2013]{accel}
+\abntrefinfo{Electronic Products}{ELECTRONIC PRODUCTS}{2013}
+{ELECTRONIC PRODUCTS. \emph{MEMS: A Brief Overview}. 2013.
+Disponível em:
+  \url{https://www.electronicproducts.com/Sensors_and_Transducers/Sensors_and_Transducers/MEMS_A_Brief_Overview.aspx?id=2546}.
+  Acesso em Out. 2017.}
+
+\bibitem[Kim, Thang e Kim 2009]{kim20093}
+\abntrefinfo{Kim, Thang e Kim}{KIM; THANG; KIM}{2009}
+{KIM, J.-H.; THANG, N.~D.; KIM, T.-S. 3-d hand motion tracking and gesture
+  recognition using a data glove. In:  IEEE. \emph{2009 IEEE International
+  Symposium on Industrial Electronics}. [S.l.], 2009. p. 1013--1018.}
+
+\bibitem[Li 2009]{li2009smartglove}
+\abntrefinfo{Li}{LI}{2009}
+{LI, K.
+\emph{Smartglove: a multi-finger sensing system based on optical linear
+  encoder.}
+2009. Tese (Doutorado) --- Nanyang Technological University.}
+
+\bibitem[Roversi 2016]{roversi}
+\abntrefinfo{Roversi}{ROVERSI}{2016}
+{ROVERSI, G.
+\emph{Luvas Sensoriais: Captura dos movimentos das mãos e dedos}.
+2016. Monografia (Trabalho de Diplomação) --- PUC Minas.}
+
+\bibitem[Sensor Wiki 2016]{gyroscope}
+\abntrefinfo{Sensor Wiki}{SENSOR WIKI}{2016}
+{SENSOR WIKI. \emph{Gyroscope}. 2016.
+Disponível em: \url{http://sensorwiki.org/doku.php/sensors/gyroscope}. Acesso
+  em Out. 2017.}
+
+\bibitem[Sparkfun 2016]{sparkflex}
+\abntrefinfo{Sparkfun}{SPARKFUN}{2016}
+{SPARKFUN. \emph{Flex Sensor Hookup Guide}. 2016.
+Disponível em:
+  \url{https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide}. Acesso
+  em Out. 2016.}
+
+\bibitem[Willers 2016]{mpu9250}
+\abntrefinfo{Willers}{WILLERS}{2016}
+{WILLERS, N. \emph{MPU 92/65 9250 IMU}. 2016.
+Disponível em:
+  \url{https://github.com/NelisW/myOpenHab/blob/master/docs/707-MPU-9250-9265
+  IMU.md}. Acesso em Ago. 2017.}
+
+\bibitem[WiredCosmos 2013]{cyberglove}
+\abntrefinfo{WiredCosmos}{WIREDCOSMOS}{2013}
+{WIREDCOSMOS. \emph{Show Some Love for the Data Glove}. 2013.
+Disponível em:
+  \url{http://wiredcosmos.com/2013/01/16/show-some-love-for-the-data-glove/}.
+  Acesso em Dez. 2017.}
+
+\bibitem[Yi-Liang 2010]{movimentos}
+\abntrefinfo{Yi-Liang}{YI-LIANG}{2010}
+{YI-LIANG, J.~L. \emph{Hand Reference (Part 4: Motion Terminology)}. 2010.
+Disponível em: \url{http://www.handsurgery.com.sg/wordpress/?p =152}. Acesso
+  em Out. 2016.}
+
+\end{thebibliography}

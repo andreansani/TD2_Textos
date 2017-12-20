@@ -1,0 +1,13 @@
+ToDo.txt
+*.aux
+*.bbl
+*.blg
+*.toc
+*.lof
+*.log
+*.lot
+*.pdf
+*.synctex.gz
+*.synctex
+*.sublime-project
+*.sublime-workspace

@@ -1,0 +1,9 @@
+\contentsline {grafico}{\numberline {1}{\ignorespaces Leituras dos sensores de flex\IeC {\~a}o do polegar}}{70}
+\contentsline {subgrafico}{\numberline {a}{\ignorespaces {Leituras obtidas com circuito e c\IeC {\'o}digo de \citeonline {roversi}}}}{70}
+\contentsline {grafico}{\numberline {1}{\ignorespaces Leituras dos sensores de flex\IeC {\~a}o do polegar (Cont.)}}{71}
+\contentsline {subgrafico}{\numberline {b}{\ignorespaces {Leituras obtidas com o circuito e c\IeC {\'o}digo deste trabalho}}}{71}
+\contentsline {grafico}{\numberline {2}{\ignorespaces Leituras das \ac {IMU}s}}{71}
+\contentsline {subgrafico}{\numberline {a}{\ignorespaces {Leituras da \textit {MPU-6050} sem \ac {DMP}}}}{71}
+\contentsline {grafico}{\numberline {2}{\ignorespaces Leituras das \ac {IMU}s}}{72}
+\contentsline {subgrafico}{\numberline {b}{\ignorespaces {Leituras da \textit {MPU-9250} com \ac {DMP}}}}{72}
+\contentsline {grafico}{\numberline {3}{\ignorespaces Efeito \textit {drift} da \textit {MPU-9250}}}{72}
